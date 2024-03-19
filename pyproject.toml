@@ -16,7 +16,7 @@ tensorboardX = ">=2.4.1"
 PyYAML = "^6.0"
 psutil = "^5.9.0"
 setproctitle = "^1.2.2"
-ray = "^1.11.0"
+ray = ">=1.1.0"
 opencv-python = ">=4.3"
 wandb = ">=0.13.00"
 
